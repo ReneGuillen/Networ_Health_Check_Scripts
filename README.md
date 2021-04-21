@@ -11,4 +11,3 @@ Python Network Scripts utilizing Netmiko library to run health cheacks on WAN de
 * Net_Script: python script to capture logs.
 * Main_dir: description, net_script folder, main directory.
 
-
